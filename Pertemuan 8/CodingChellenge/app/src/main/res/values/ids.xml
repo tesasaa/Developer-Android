@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bt_second" type="id">6</item>
+    <item name="bt_first" type="id">6</item>
+    <item name="bt_third" type="id">6</item>
+</resources>

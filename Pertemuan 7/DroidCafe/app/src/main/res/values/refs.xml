@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="icecream_circle">32</drawable>
+    <drawable name="froyo_circle">32</drawable>
+    <drawable name="donut_circle">32</drawable>
+    <drawable name="ic_shopping_cart">32</drawable>
+</resources>
